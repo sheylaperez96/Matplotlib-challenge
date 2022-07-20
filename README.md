@@ -3,7 +3,7 @@
 ## Background
 Pymaceuticals recently began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. As a senior data analyst at the company, I've been given acess to their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated with a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
 
-In this repository, you'll find a jupyter notebook [pymaceuticals.ipynb] that contains tables and figures analyzing the study results.
+In this repository, you'll find a jupyter notebook (pymaceuticals.ipynb) that contains tables and figures analyzing the study results.
 
 ## Observable Trends
 - The sex distribution between the mice in the study is pretty even, with 51% males in the study and 49% females.
